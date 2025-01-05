@@ -9212,7 +9212,8 @@ function Hf({ gotoNextPage: T, gotoPrevPage: I, prevPageAvailable: m }) {
     ],
   });
 }
-const $f = "./pokedex-app-for-pages/assets/pokeapi-logo-DdjDHDHt.png",
+const $f =
+    "./todo-app-for-pages/pokedex-app-for-pages/assets/pokeapi-logo-DdjDHDHt.png",
   Wf = "./pokedex-app-for-pages/assets/github-mark-B3LxWxcL.png";
 function Qf() {
   return Q.jsxs("div", {
