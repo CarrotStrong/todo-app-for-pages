@@ -9329,7 +9329,7 @@ function Kf() {
   return H
     ? Q.jsx("div", {
         className:
-          "w-full h-dvh grid place-items-center select-none text-3xl text-white bg-200",
+          "w-full h-dvh grid place-items-center select-none text-3xl text-white text-shadow-lg",
         children: "Loading...",
       })
     : Q.jsxs("div", {
