@@ -9150,7 +9150,8 @@ function Ff() {
   return (Ll.createRoot = T.createRoot), (Ll.hydrateRoot = T.hydrateRoot), Ll;
 }
 var Uf = Ff();
-const Af = "./assets/app-logo-DPZvMUVJ.png";
+const Af =
+  "./todo-app-for-pages/pokedex-app-for-pages/assets/app-logo-DPZvMUVJ.png";
 function Vf() {
   return Q.jsxs("div", {
     className: "grid place-items-center py-4 bg-gray-100",
@@ -9214,7 +9215,8 @@ function Hf({ gotoNextPage: T, gotoPrevPage: I, prevPageAvailable: m }) {
 }
 const $f =
     "./todo-app-for-pages/pokedex-app-for-pages/assets/pokeapi-logo-DdjDHDHt.png",
-  Wf = "./pokedex-app-for-pages/assets/github-mark-B3LxWxcL.png";
+  Wf =
+    "./todo-app-for-pages/pokedex-app-for-pages/assets/github-mark-B3LxWxcL.png";
 function Qf() {
   return Q.jsxs("div", {
     className: "grid place-items-center text-sm w-full",
